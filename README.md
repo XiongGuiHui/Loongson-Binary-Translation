@@ -50,4 +50,4 @@
 
 #### 工作条目
 
-[rev.ng原理调研][./rev.ng原理调研/README.md]
+[rev.ng原理调研](./rev.ng原理调研/README.md)
